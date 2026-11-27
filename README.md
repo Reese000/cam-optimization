@@ -1,3 +1,5 @@
+> **ARCHIVED 2026-11-27: superseded by [AI-CAM-3.0](https://github.com/Reese000/AI-CAM-3.0).** This repository is read-only and kept for history only.
+
 # CAM Optimization
 
 **G-code performance analysis and optimization for CNC machining simulations.**
